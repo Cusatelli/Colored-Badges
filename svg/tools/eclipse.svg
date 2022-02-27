@@ -1,0 +1,174 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="442mm"
+   height="150mm"
+   viewBox="0 0 442 150"
+   version="1.1"
+   id="svg2146"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="eclipse.svg">
+  <title
+     id="title1091">Colored Badge Template</title>
+  <defs
+     id="defs2140">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient1138">
+      <stop
+         style="stop-color:#d3d3d3;stop-opacity:1"
+         offset="0"
+         id="stop1134" />
+      <stop
+         style="stop-color:#ffffff;stop-opacity:1"
+         offset="1"
+         id="stop1136" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2974">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0"
+         id="stop2970" />
+      <stop
+         style="stop-color:#404040;stop-opacity:1"
+         offset="1"
+         id="stop2972" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2974"
+       id="linearGradient1030"
+       gradientUnits="userSpaceOnUse"
+       x1="-8.5265128e-14"
+       y1="150"
+       x2="-8.5265128e-14"
+       y2="0"
+       gradientTransform="scale(0.89230966,1)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1138"
+       id="linearGradient1038"
+       x1="-8.5265128e-14"
+       y1="150"
+       x2="-8.5265128e-14"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(6.086914e-6,-1.5253906e-5)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient1138"
+       id="linearGradient1038-0"
+       x1="-8.5265128e-14"
+       y1="150"
+       x2="-8.5265128e-14"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.17738398,0,0,1,123.3924,0)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.22627417"
+     inkscape:cx="507.44736"
+     inkscape:cy="1533.442"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2143">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Colored Badge Template</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Text Background"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.996;fill:url(#linearGradient1030);fill-opacity:1;stroke-width:4.97533;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect7"
+       width="442"
+       height="150"
+       x="-8.5265128e-14"
+       y="0"
+       ry="15.000003" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Text">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:67.3688px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.350876"
+       x="178.42102"
+       y="98.980537"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         x="178.42102"
+         y="98.980537"
+         style="font-size:67.3688px;fill:#ffffff;stroke-width:0.350876">Eclipse</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Logo Background">
+    <rect
+       style="opacity:0.996;fill:url(#linearGradient1038);fill-opacity:1;stroke-width:2.89838;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect7-3"
+       width="150"
+       height="150"
+       x="6.6757202e-06"
+       y="-1.5258789e-05"
+       ry="15" />
+    <rect
+       style="opacity:0.996;fill:url(#linearGradient1038-0);fill-opacity:1;stroke-width:1.22071;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect7-3-0"
+       width="26.607597"
+       height="150"
+       x="123.3924"
+       y="0" />
+    <g
+       id="g1154"
+       transform="matrix(0.15810616,0,0,0.15810616,72.321014,10.436864)">
+      <path
+         style="fill:#f6931e;stroke-width:0.264583"
+         d="m -15.247273,702.96919 c -66.201657,-2.87311 -128.876667,-27.35337 -179.409007,-70.0754 -8.55808,-7.23535 -20.42283,-18.65961 -27.7759,-26.74469 -43.22093,-47.52372 -70.0099,-107.94468 -75.78152,-170.92083 -0.99195,-10.82355 -1.08529,-13.24708 -1.08529,-28.17813 0,-15.34837 0.10722,-17.94306 1.20763,-29.2231 4.22747,-43.33493 18.1226,-85.2819 40.67146,-122.78002 25.61076,-42.58997 61.82076,-78.32346 104.96466,-103.58336 27.87931,-16.32278 58.952369,-28.16336 90.61979,-34.53122 14.878561,-2.99187 27.961087,-4.64755 43.920833,-5.55849 6.626887,-0.37824 23.5253745,-0.38864 23.8993101,-0.0147 0.2017448,0.20174 0.1947334,0.2836 -0.024289,0.2836 -0.7316259,0 -13.6154584,2.44784 -18.0711471,3.43339 -43.074214,9.52753 -83.141426,27.96597 -118.384077,54.47889 -48.4126,36.42062 -84.82032,86.48386 -104.01018,143.02152 -14.86413,43.79309 -19.18031,90.30831 -12.64531,136.27766 5.16175,36.30946 17.4511,72.07268 35.7821,104.12952 38.28468,66.95136 100.94736,116.95732 175.197343,139.81068 12.318551,3.7915 26.711963,7.19648 39.1583334,9.2634 3.2574706,0.54097 3.6115625,0.71073 1.984375,0.95131 -1.6757386,0.24778 -14.1570604,0.22307 -20.2191144,-0.04 z"
+         id="path1158" />
+      <path
+         style="fill:#2c2255;fill-opacity:1;stroke-width:0.264583"
+         d="M 38.838508,690.6382 C -3.4923379,688.94881 -40.066203,679.92499 -75.196908,662.50239 -106.99529,646.7324 -136.99298,623.5186 -162.89139,594.63972 c -26.87541,-29.96829 -46.38265,-63.70089 -57.80632,-99.96066 -0.81138,-2.5754 -1.47524,-4.92062 -1.47524,-5.21158 0,-0.52872 0.17554,-0.52901 272.190104,-0.46278 l 272.190106,0.0663 -0.0906,0.66146 c -0.14724,1.0753 -4.62028,14.33179 -6.38326,18.91771 -5.98905,15.57893 -14.22625,32.04856 -23.0759,46.13841 -15.57096,24.79114 -36.44836,48.73657 -60.67319,69.58939 -45.66965,39.31261 -99.0469,61.25239 -159.67604,65.63204 -9.601174,0.69355 -24.721635,0.97737 -33.469792,0.62822 z M -229.51874,456.85795 c -0.79277,-0.98258 -3.39297,-23.57038 -3.57115,-31.02239 l -0.0633,-2.64584 283.170314,-0.0663 283.170316,-0.0662 v 1.68148 c 0,6.08906 -2.89907,31.08306 -3.7201,32.07234 -0.27117,0.32673 -37.96601,0.37766 -279.516362,0.37766 -223.043628,0 -279.256588,-0.0665 -279.469748,-0.33073 z m -3.64874,-65.83828 c -0.65669,-1.06254 2.67724,-32.10819 3.61012,-33.61762 0.18589,-0.30076 44.97367,-0.36195 279.501569,-0.38183 201.179321,-0.017 279.346581,0.057 279.517501,0.26459 0.82463,1.00178 3.43522,23.47046 3.54171,30.48268 l 0.0517,3.40765 -283.022326,0.0663 c -203.808424,0.0477 -283.072144,-0.0143 -283.200324,-0.22175 z m 11.11621,-65.87524 c -0.30047,-0.48618 0.1202,-2.02763 2.52259,-9.24325 6.84152,-20.54864 15.7981,-39.52446 27.41186,-58.07604 16.89642,-26.98997 40.38975,-53.21584 66.05013,-73.73248 36.21095,-28.95232 75.724986,-47.24813 120.190615,-55.65074 44.110645,-8.33552 93.29076,-6.31024 135.295295,5.57159 43.47075,12.29656 81.72352,34.61194 116.35494,67.87754 31.11511,29.88795 54.01593,63.36994 68.84117,100.64867 2.97307,7.47592 7.8808,22.15445 7.57354,22.65164 -0.21968,0.35545 -544.02043,0.30856 -544.24014,-0.0469 z"
+         id="path1156" />
+    </g>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Logo" />
+</svg>
