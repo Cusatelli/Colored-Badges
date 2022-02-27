@@ -1,0 +1,72 @@
+* {
+  margin: 0;
+  padding: 0;
+  color: white;
+}
+
+html, body {
+  background-color: #252525;
+  font-family: Consolas, "Courier New", Courier, monospace;
+  font-weight: 700;
+}
+
+h1 {
+  font-size: 4rem;
+  margin-block: 5rem 3rem;
+}
+
+main {
+  text-align: center;
+}
+main section {
+  width: 50%;
+  margin: 1rem;
+  margin-inline: auto;
+  border-radius: 0.5rem;
+  padding: 1rem;
+  background-color: #141414;
+  box-shadow: 0.2rem 0.2rem 0.6rem rgba(0, 0, 0, 0.25);
+}
+main section h2 {
+  font-size: 3rem;
+}
+main section .badges {
+  margin-block: 1rem;
+  margin-inline: auto;
+  width: 75%;
+}
+main section .badges hr {
+  color: #0a0a0a;
+  margin-inline: auto;
+  margin-block: 2rem;
+  width: 50%;
+}
+main section .badges h3 {
+  font-size: 2rem;
+  margin-block-start: 3rem;
+}
+main section .badges img {
+  height: 3rem;
+}
+main section .badges .align-left {
+  text-align: left;
+  margin-block: 0.5rem;
+}
+main section .badges .code {
+  background-color: #111111;
+  box-shadow: 0.2rem 0.2rem 0.6rem rgba(0, 0, 0, 0.25);
+  border-radius: 0.25rem;
+  text-align: left;
+  padding: 1rem;
+  color: #b1b1b1;
+}
+main section .badges .result {
+  text-align: left;
+}
+
+footer {
+  text-align: center;
+  margin-block: 2rem 1rem;
+}
+
+/*# sourceMappingURL=index.css.map */
