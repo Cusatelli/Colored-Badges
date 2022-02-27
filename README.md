@@ -1,8 +1,8 @@
 <div id="top"></div>
 
 <div align="center">
-  <img src="/resources/coloredbadges_logo.svg" alt="Logo" width="250">
-  <h3 align="center">Colored Badges</h3>
+  <img src="/resources/coloredbadges_logo.svg" alt="Colored Badges" width="75%">
+  <p></p>
   <p align="center">
     A collection of colored vector badges.
     <br />
@@ -11,7 +11,7 @@
 </div>
 
 <!-- TABLE OF CONTENTS -->
-<div align="center">
+<div align="left">
   <h1>Table of Contents</h1>
   <a href="#about-the-project">About the Project</a><br/>
   <a href="#usage">Usage</a><br/>
@@ -22,7 +22,7 @@
 </div>
 
 <!-- ABOUT THE PROJECT -->
-<div align="center">
+<div align="left">
   <h1>About the project</h1>
 </div>
 
@@ -33,7 +33,7 @@
 </p>
 
 <!-- USAGE -->
-<div align="center">
+<div align="left">
   <h1>Usage</h1>
 </div>
 
@@ -48,11 +48,11 @@
 </p>
 
 <!-- Badges -->
-<div align="center">
+<div align="left">
   <h1>Badges</h1>
 </div>
 
-<div align="center">
+<div align="left">
     <h2>Frameworks</h2>
     <div>
         <img src="/svg/frameworks/angular.svg" height="35" />
@@ -99,9 +99,9 @@
 </p>
 
 <!-- MAINTAINERS -->
-<div align="center">
+<div align="left">
   <h1>Maintainers</h1>
-  <div align="center">
+  <div align="left">
     <h3>Cusatelli</h3>
   </div>
 </div>
@@ -113,9 +113,9 @@
 </p>
 
 <!-- LICENSE -->
-<div align="center">
+<div align="left">
   <h1>License</h1>
-  <div align="center">
+  <div align="left">
     <h3>No active license</h3>
   </div>
 </div>
@@ -127,9 +127,9 @@
 </p>
 
 <!-- CONTACT -->
-<div align="center">
+<div align="left">
   <h1>Contact</h1>
-  <div align="center">
+  <div align="left">
     <a href="mailto:github.cusatelli@gmail.com">github.cusatelli@gmail.com</a>
   </div>
 </div>
