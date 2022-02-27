@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="498mm"
+   width="404mm"
    height="150mm"
-   viewBox="0 0 498 150"
+   viewBox="0 0 404 150"
    version="1.1"
    id="svg2146"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
@@ -39,7 +39,7 @@
          offset="0"
          id="stop1022" />
       <stop
-         style="stop-color:#595959;stop-opacity:1"
+         style="stop-color:#404040;stop-opacity:1"
          offset="1"
          id="stop1024" />
     </linearGradient>
@@ -52,7 +52,7 @@
        y1="150"
        x2="-8.5265128e-14"
        y2="0"
-       gradientTransform="scale(1.0053625,1)" />
+       gradientTransform="scale(0.81559528,1)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2058"
@@ -81,9 +81,9 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.33210416"
-     inkscape:cx="726.30832"
-     inkscape:cy="582.33292"
+     inkscape:zoom="0.31512336"
+     inkscape:cx="670.77451"
+     inkscape:cy="458.68622"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
@@ -111,9 +111,9 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="opacity:0.996;fill:url(#linearGradient1030);fill-opacity:1;stroke-width:5.2811;stroke-linecap:square;paint-order:stroke fill markers"
+       style="opacity:0.996;fill:url(#linearGradient1030);fill-opacity:1;stroke-width:4.75664;stroke-linecap:square;paint-order:stroke fill markers"
        id="rect7"
-       width="498"
+       width="404"
        height="150"
        x="-8.5265128e-14"
        y="0"
@@ -125,15 +125,15 @@
      inkscape:label="Text">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:104.065px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.542001"
-       x="174.8374"
-       y="113.59"
+       style="font-style:normal;font-weight:normal;font-size:68.771px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.358179"
+       x="178.28409"
+       y="100.00002"
        id="text13"><tspan
          sodipodi:role="line"
          id="tspan11"
-         x="174.8374"
-         y="113.59"
-         style="font-size:104.065px;fill:#ffffff;stroke-width:0.542001">HTML</tspan></text>
+         x="178.28409"
+         y="100.00002"
+         style="font-size:68.771px;fill:#ffffff;stroke-width:0.358179">HTML</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

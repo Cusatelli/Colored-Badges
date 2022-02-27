@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="362mm"
+   width="311mm"
    height="150mm"
-   viewBox="0 0 362 150"
+   viewBox="0 0 311 150"
    version="1.1"
    id="svg2146"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
@@ -39,7 +39,7 @@
          offset="0"
          id="stop1022" />
       <stop
-         style="stop-color:#595959;stop-opacity:1"
+         style="stop-color:#404040;stop-opacity:1"
          offset="1"
          id="stop1024" />
     </linearGradient>
@@ -52,7 +52,7 @@
        y1="150"
        x2="-8.5265128e-14"
        y2="0"
-       gradientTransform="scale(0.73080569,0.99999996)" />
+       gradientTransform="scale(0.62784692,1)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient1750"
@@ -80,11 +80,11 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.32350236"
-     inkscape:cx="88.775841"
+     inkscape:zoom="0.31512336"
+     inkscape:cx="33.242033"
      inkscape:cy="582.33292"
      inkscape:document-units="mm"
-     inkscape:current-layer="layer4"
+     inkscape:current-layer="layer1"
      inkscape:document-rotation="0"
      showgrid="false"
      inkscape:snap-bbox="true"
@@ -110,13 +110,13 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="opacity:0.996;fill:url(#linearGradient1030);fill-opacity:1;stroke-width:4.50259;stroke-linecap:square;paint-order:stroke fill markers"
+       style="opacity:0.996;fill:url(#linearGradient1030);fill-opacity:1;stroke-width:4.17339;stroke-linecap:square;paint-order:stroke fill markers"
        id="rect7"
-       width="362"
+       width="311"
        height="150"
        x="-8.5265128e-14"
        y="0"
-       ry="15" />
+       ry="15.000001" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -124,15 +124,15 @@
      inkscape:label="Text">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:104.065px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.542002"
-       x="179.15651"
-       y="113.59001"
+       style="font-style:normal;font-weight:normal;font-size:66.3642px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.345645"
+       x="181.2735"
+       y="99.125061"
        id="text13-5"><tspan
          sodipodi:role="line"
          id="tspan11-4"
-         x="179.15651"
-         y="113.59001"
-         style="font-size:104.065px;fill:#ffffff;stroke-width:0.542002">C#</tspan></text>
+         x="181.2735"
+         y="99.125061"
+         style="font-size:66.3642px;fill:#ffffff;stroke-width:0.345645">C#</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"

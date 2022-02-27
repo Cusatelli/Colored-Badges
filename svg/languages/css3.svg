@@ -8,9 +8,9 @@
    xmlns:xlink="http://www.w3.org/1999/xlink"
    xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   width="422mm"
+   width="349mm"
    height="150mm"
-   viewBox="0 0 422 150"
+   viewBox="0 0 349 150"
    version="1.1"
    id="svg2146"
    inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
@@ -19,6 +19,18 @@
      id="title1091">Colored Badge Template</title>
   <defs
      id="defs2140">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2974">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0"
+         id="stop2970" />
+      <stop
+         style="stop-color:#404040;stop-opacity:1"
+         offset="1"
+         id="stop2972" />
+    </linearGradient>
     <linearGradient
        inkscape:collect="always"
        id="linearGradient2163">
@@ -33,26 +45,14 @@
     </linearGradient>
     <linearGradient
        inkscape:collect="always"
-       id="Text_Background_Gradient-7">
-      <stop
-         style="stop-color:#000000;stop-opacity:1"
-         offset="0"
-         id="stop1022" />
-      <stop
-         style="stop-color:#595959;stop-opacity:1"
-         offset="1"
-         id="stop1024" />
-    </linearGradient>
-    <linearGradient
-       inkscape:collect="always"
-       xlink:href="#Text_Background_Gradient-7"
+       xlink:href="#linearGradient2974"
        id="linearGradient1030"
        gradientUnits="userSpaceOnUse"
        x1="-8.5265128e-14"
        y1="150"
        x2="-8.5265128e-14"
        y2="0"
-       gradientTransform="scale(0.85193366,1)" />
+       gradientTransform="scale(0.70456128,1)" />
     <linearGradient
        inkscape:collect="always"
        xlink:href="#linearGradient2163"
@@ -81,8 +81,8 @@
      borderopacity="1.0"
      inkscape:pageopacity="0.0"
      inkscape:pageshadow="2"
-     inkscape:zoom="0.23483311"
-     inkscape:cx="989.84857"
+     inkscape:zoom="0.22875072"
+     inkscape:cx="913.34608"
      inkscape:cy="167.745"
      inkscape:document-units="mm"
      inkscape:current-layer="layer1"
@@ -111,13 +111,13 @@
      inkscape:groupmode="layer"
      id="layer1">
     <rect
-       style="opacity:0.996;fill:url(#linearGradient1030);fill-opacity:1;stroke-width:4.86145;stroke-linecap:square;paint-order:stroke fill markers"
+       style="opacity:0.996;fill:url(#linearGradient1030);fill-opacity:1;stroke-width:4.42102;stroke-linecap:square;paint-order:stroke fill markers"
        id="rect7"
-       width="422"
+       width="349"
        height="150"
        x="-8.5265128e-14"
        y="0"
-       ry="15.000002" />
+       ry="15.000003" />
   </g>
   <g
      inkscape:groupmode="layer"
@@ -125,15 +125,15 @@
      inkscape:label="Text">
     <text
        xml:space="preserve"
-       style="font-style:normal;font-weight:normal;font-size:104.065px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.542002"
-       x="179.15631"
-       y="113.59063"
+       style="font-style:normal;font-weight:normal;font-size:66.3642px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.345645"
+       x="181.2733"
+       y="99.125061"
        id="text13"><tspan
          sodipodi:role="line"
          id="tspan11"
-         x="179.15631"
-         y="113.59063"
-         style="font-size:104.065px;fill:#ffffff;stroke-width:0.542002">CSS</tspan></text>
+         x="181.2733"
+         y="99.125061"
+         style="font-size:66.3642px;fill:#ffffff;stroke-width:0.345645">CSS</tspan></text>
   </g>
   <g
      inkscape:groupmode="layer"
