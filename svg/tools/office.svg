@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="407mm"
+   height="150mm"
+   viewBox="0 0 407 150"
+   version="1.1"
+   id="svg2146"
+   inkscape:version="1.0.1 (3bc2e813f5, 2020-09-07)"
+   sodipodi:docname="office.svg">
+  <title
+     id="title1091">Colored Badge Template</title>
+  <defs
+     id="defs2140">
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2249">
+      <stop
+         style="stop-color:#0d59b3;stop-opacity:1"
+         offset="0"
+         id="stop2245" />
+      <stop
+         style="stop-color:#117bf8;stop-opacity:1"
+         offset="1"
+         id="stop2247" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       id="linearGradient2974">
+      <stop
+         style="stop-color:#000000;stop-opacity:1"
+         offset="0"
+         id="stop2970" />
+      <stop
+         style="stop-color:#404040;stop-opacity:1"
+         offset="1"
+         id="stop2972" />
+    </linearGradient>
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2974"
+       id="linearGradient1030"
+       gradientUnits="userSpaceOnUse"
+       x1="-8.5265128e-14"
+       y1="150"
+       x2="-8.5265128e-14"
+       y2="0"
+       gradientTransform="scale(0.82165168,1)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2249"
+       id="linearGradient1038-4"
+       x1="-6.8115232e-06"
+       y1="150"
+       x2="-8.5265128e-14"
+       y2="0"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="translate(6.8115233e-6)" />
+    <linearGradient
+       inkscape:collect="always"
+       xlink:href="#linearGradient2249"
+       id="linearGradient1038-0-4"
+       x1="5.7943904e-05"
+       y1="150"
+       x2="5.7943904e-05"
+       y2="-2.7587889e-06"
+       gradientUnits="userSpaceOnUse"
+       gradientTransform="matrix(0.17738398,0,0,1,123.3924,1.8017578e-5)" />
+  </defs>
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="0.35484626"
+     inkscape:cx="804.10448"
+     inkscape:cy="493.58411"
+     inkscape:document-units="mm"
+     inkscape:current-layer="layer1"
+     inkscape:document-rotation="0"
+     showgrid="false"
+     inkscape:snap-bbox="true"
+     inkscape:window-width="1920"
+     inkscape:window-height="1017"
+     inkscape:window-x="-8"
+     inkscape:window-y="-8"
+     inkscape:window-maximized="1" />
+  <metadata
+     id="metadata2143">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title>Colored Badge Template</dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     inkscape:label="Text Background"
+     inkscape:groupmode="layer"
+     id="layer1">
+    <rect
+       style="opacity:0.996;fill:url(#linearGradient1030);fill-opacity:1;stroke-width:4.77427;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect7"
+       width="407"
+       height="150"
+       x="-8.5265128e-14"
+       y="0"
+       ry="15.000003" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer4"
+     inkscape:label="Text">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:67.369px;line-height:1.25;font-family:sans-serif;fill:#ffffff;fill-opacity:1;stroke:none;stroke-width:0.350877"
+       x="185.00008"
+       y="98.980667"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan11"
+         x="185.00008"
+         y="98.980667"
+         style="font-size:67.369px;fill:#ffffff;stroke-width:0.350877">Office</tspan></text>
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Logo Background" />
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Logo">
+    <rect
+       style="opacity:0.996;fill:url(#linearGradient1038-4);fill-opacity:1;stroke-width:2.89838;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect7-3-1"
+       width="150"
+       height="150"
+       x="-8.5265128e-14"
+       y="0"
+       ry="15" />
+    <rect
+       style="opacity:0.996;fill:url(#linearGradient1038-0-4);fill-opacity:1;stroke-width:1.22071;stroke-linecap:square;paint-order:stroke fill markers"
+       id="rect7-3-0-6"
+       width="26.607597"
+       height="150"
+       x="123.39241"
+       y="1.5258789e-05" />
+    <path
+       style="fill:#ea3b00;stroke-width:0.098725"
+       d="m 60.136261,115.51242 c -14.497792,-5.21447 -26.378129,-9.49861 -26.400756,-9.52029 -0.02261,-0.0217 -0.01414,-0.0664 0.01888,-0.0994 0.03299,-0.033 11.926218,1.36795 26.429373,3.11323 14.503155,1.74528 26.412028,3.14687 26.464162,3.11465 0.11327,-0.07 0.133974,-70.60026 0.02075,-70.66817 -0.04072,-0.0244 -3.006182,0.64084 -6.589905,1.47837 -3.583724,0.83752 -11.291691,2.63402 -17.128816,3.9922 -5.837126,1.35819 -10.757343,2.51523 -10.933813,2.5712 l -0.320859,0.10176 -0.0015,23.85915 c -7.47e-4,13.38419 -0.03928,23.91877 -0.08753,23.99496 -0.107907,0.17035 -18.466967,8.2208 -18.583418,8.14883 -0.04765,-0.0294 -0.08532,-13.43207 -0.08532,-30.35206 0,-29.80234 0.003,-30.30099 0.19,-30.40101 0.1045,-0.0559 12.210912,-4.54412 26.903134,-9.97377 L 86.743771,25 l 2.788462,0.88848 c 1.533653,0.48867 8.097406,2.58798 14.586137,4.66515 l 11.79768,3.77666 0.0248,40.91519 c 0.0137,22.50336 -0.009,40.94768 -0.0494,40.9874 -0.12196,0.11875 -28.917221,8.77437 -29.166158,8.76712 -0.126182,-0.004 -12.091251,-4.27308 -26.589041,-9.48756 z"
+       id="path2265" />
+  </g>
+</svg>
